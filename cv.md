@@ -23,7 +23,7 @@ ex-policial activist, ex-journalist/SMM-junior (e.g. Novaya Gazeta, Libertarian'
 using namespace std;
 
 int main() {
-    std::cout << "Hello World!";
+    std::cout << "such coding";
     return 0;
 }
 ```
